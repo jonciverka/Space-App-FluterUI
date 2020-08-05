@@ -1,16 +1,12 @@
-# espacio
+# Space-App-FluterUI
 
-A new Flutter project.
+Mobile application developed in fluttter and inspired by the design of Arsalan Khatri  link: https://dribbble.com/shots/10387257-R-R-Fraternities-around-you
 
-## Getting Started
+# Example 
 
-This project is a starting point for a Flutter application.
+![Screenshot_20200804-232627_Photos](https://user-images.githubusercontent.com/23271951/89372045-a76dd980-d6aa-11ea-8db1-0cbcb9ae9fcc.png)
 
-A few resources to get you started if this is your first Flutter project:
+  
+## Speed Code
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.youtube.com/watch?v=49ZRPTEyZ7c&t=7s
