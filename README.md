@@ -9,4 +9,4 @@ Mobile application developed in fluttter and inspired by the design of Arsalan K
   
 ## Speed Code
 
-https://www.youtube.com/watch?v=49ZRPTEyZ7c&t=7s
+https://youtu.be/N7UzV_AlMFc
